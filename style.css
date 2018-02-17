@@ -1,0 +1,156 @@
+/* Color Scheme #d02120 #ffffff #000000 */
+
+/* Import Fonts */
+@font-face {
+font-family: "Aileron-HeavyItalic";
+src: url("../fonts/aileron/Aileron-HeavyItalic.otf");
+}
+
+@font-face {
+font-family: "MTF Toast";
+src: url("../fonts/MTF Toast.ttf");
+}
+
+* {
+  font-family: Courier;
+}
+
+body {}
+
+h1 {
+    font-size: 1em;
+}
+
+p {
+  font-size: .6em;
+}
+
+hr {
+  margin-left: 175px;
+  margin-right: 175px;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Fjalla One', sans-serif;
+  width: 120px;
+}
+
+a:hover {
+    color: #d02120;
+    text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.mainlink {
+  text-decoration: none;
+  font-size: 85px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.mainlink:hover {
+    color: #d02120;
+    text-decoration: none;
+}
+
+.head {
+  text-align: center;
+}
+
+/* .bigdata {
+  padding-top: 0px;
+  font-size: 1.2em;
+  background-color: rgb(255, 255, 255);
+  padding-left: 175px;
+  padding-right: 175px;
+  padding-bottom:0px;
+  text-overflow: wrap;
+  display: inline-flex;
+  text-align: center;
+  height: 0px;
+}
+
+.bigitem {
+  padding:70px;
+  height: 0px;
+}
+
+.bignumber {
+  padding-top: 0px;
+  background-color: rgb(255, 255, 255);
+  padding-left: 175px;
+  padding-right: 155px;
+  text-overflow: wrap;
+  display: inline-flex;
+  text-align: center;
+}
+
+.bignumbers {
+  padding-left:105px;
+  padding-right:100px;
+  padding-top: 60px;
+  font-size: 10em;
+  line-height: 0px;
+  color:rgb(68, 68, 68);
+}
+
+.bignumbers:hover {
+  color: #d02120;
+} */
+
+.smalldata {
+
+}
+
+.foot {
+  background-color: rgb(235, 235, 235);
+  padding-top: 17px;
+  padding-bottom: 30px;
+}
+
+.foot2 {
+  background-color: rgb(235, 235, 235);
+  padding-top: 1px;
+  padding-bottom: 30px;
+}
+
+.copy{
+  float: left;
+  padding-left: 120px;
+}
+
+.love {
+  float: right;
+  padding-right: 120px;
+}
+
+.mainimagewrap {
+  text-align: center;
+  padding: 20px;
+}
+
+#mainimage {
+  height:98px;
+  width:250px;
+}
+
+.chart {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.numberfont {
+  font-family: 'Fjalla One', sans-serif;
+  width: 120px;
+}
+
+.chartTitle {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  font-size:20px;
+  font-style: oblique;
+}
