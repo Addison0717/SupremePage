@@ -134,8 +134,8 @@ a:visited {
 }
 
 #mainimage {
-  height:98px;
-  width:250px;
+  height:auto;
+  width:100px;
 }
 
 .chart {
