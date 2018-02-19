@@ -34,6 +34,7 @@ a {
   text-decoration: none;
   font-family: 'Fjalla One', sans-serif;
   width: 120px;
+  color: black;
 }
 
 a:hover {
