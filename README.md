@@ -1,6 +1,6 @@
 # Supreme Collaborations
 
-Main site found at: addison0717.github.io/supreme
+Main site found at: https://addison0717.github.io/supreme
 
 Github.io Repository for necessary files for a static website showcasing data from Supreme NY and Highsnobiety. Made entirely for learning purposes and interest.
 
